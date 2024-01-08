@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cirg+m!4=z!uo73%zrf@unwvjrwvue+si7(4yf2p8k15jehnph
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["hammerhead-app-ueirn.ondigitalocean.app", "127.0.0.1", "localhost"]
+ALLOWED_HOSTS = ["hammerhead-app-ueirn.ondigitalocean.app", "127.0.0.1", "localhost", "seashell-app-spruj.ondigitalocean.app"]
 
 
 # Application definition
