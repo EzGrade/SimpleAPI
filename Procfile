@@ -1,1 +1,1 @@
-web: python3 manage.py runserver 0.0.0.0:8080
+web: uvicorn SimpleAPI.asgi:application --host 0.0.0.0 --port 8080
